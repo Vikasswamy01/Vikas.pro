@@ -1,4 +1,5 @@
-import numpy as np
+import vikas
+as np
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import standardScaler
 import tensotflow as tf
